@@ -1,0 +1,7 @@
+# ninja log v5
+4	2162	1687946261272928266	CMakeFiles/websocket-chat-server.dir/main.cpp.o	d236e9c7fc46e00e
+5	2633	1687946261746254493	CMakeFiles/websocket-chat-server.dir/shared_state.cpp.o	f541d0a63bc8decd
+4	3123	1687946262232913850	CMakeFiles/websocket-chat-server.dir/listener.cpp.o	43acaa166e4e6af4
+5	4578	1687946263672892204	CMakeFiles/websocket-chat-server.dir/websocket_session.cpp.o	f8eacae1218fd6cd
+5729	5965	1687953027405673745	websocket-chat-server	672099a4bb6b64c3
+6	5729	1687953027138984984	CMakeFiles/websocket-chat-server.dir/http_session.cpp.o	73aa29271bb92d41

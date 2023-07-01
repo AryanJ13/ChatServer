@@ -1,0 +1,32 @@
+[
+{
+  "directory": "/home/ryan_aa/Chat Server/build",
+  "command": "/usr/bin/clang++ -DBOOST_SYSTEM_NO_LIB -g -std=c++17 -o CMakeFiles/websocket-chat-server.dir/http_session.cpp.o -c \"/home/ryan_aa/Chat Server/http_session.cpp\"",
+  "file": "/home/ryan_aa/Chat Server/http_session.cpp",
+  "output": "CMakeFiles/websocket-chat-server.dir/http_session.cpp.o"
+},
+{
+  "directory": "/home/ryan_aa/Chat Server/build",
+  "command": "/usr/bin/clang++ -DBOOST_SYSTEM_NO_LIB -g -std=c++17 -o CMakeFiles/websocket-chat-server.dir/listener.cpp.o -c \"/home/ryan_aa/Chat Server/listener.cpp\"",
+  "file": "/home/ryan_aa/Chat Server/listener.cpp",
+  "output": "CMakeFiles/websocket-chat-server.dir/listener.cpp.o"
+},
+{
+  "directory": "/home/ryan_aa/Chat Server/build",
+  "command": "/usr/bin/clang++ -DBOOST_SYSTEM_NO_LIB -g -std=c++17 -o CMakeFiles/websocket-chat-server.dir/main.cpp.o -c \"/home/ryan_aa/Chat Server/main.cpp\"",
+  "file": "/home/ryan_aa/Chat Server/main.cpp",
+  "output": "CMakeFiles/websocket-chat-server.dir/main.cpp.o"
+},
+{
+  "directory": "/home/ryan_aa/Chat Server/build",
+  "command": "/usr/bin/clang++ -DBOOST_SYSTEM_NO_LIB -g -std=c++17 -o CMakeFiles/websocket-chat-server.dir/shared_state.cpp.o -c \"/home/ryan_aa/Chat Server/shared_state.cpp\"",
+  "file": "/home/ryan_aa/Chat Server/shared_state.cpp",
+  "output": "CMakeFiles/websocket-chat-server.dir/shared_state.cpp.o"
+},
+{
+  "directory": "/home/ryan_aa/Chat Server/build",
+  "command": "/usr/bin/clang++ -DBOOST_SYSTEM_NO_LIB -g -std=c++17 -o CMakeFiles/websocket-chat-server.dir/websocket_session.cpp.o -c \"/home/ryan_aa/Chat Server/websocket_session.cpp\"",
+  "file": "/home/ryan_aa/Chat Server/websocket_session.cpp",
+  "output": "CMakeFiles/websocket-chat-server.dir/websocket_session.cpp.o"
+}
+]
